@@ -23,7 +23,7 @@ Before setting up and running the project, make sure you have the following inst
 1. Create a free account at [MongoDB Atlas](https://cloud.mongodb.com/).
 2. Create a new cluster and database.
 3. Generate a connection string by clicking the "Connect" button in your cluster.
-4. You will need the connection string to connect your backend to the database. Replace `<username>`, `<password>`, and `<dbname>` with your database username, password, and the name of the database you're using.
+4. You will need the connection string to connect your backend to the database. Replace `<username>`, `<password>`, and `<dbname>` with your database username, password, and the name of the database you're using (I used "patients").
 
 ## 1. Clone the Project
 
