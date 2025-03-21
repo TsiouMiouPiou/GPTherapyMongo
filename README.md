@@ -25,32 +25,32 @@ Before setting up and running the project, make sure you have the following inst
 3. Generate a connection string by clicking the "Connect" button in your cluster.
 4. You will need the connection string to connect your backend to the database. Replace `<username>`, `<password>`, and `<dbname>` with your database username, password, and the name of the database you're using.
 
-## 1.Clone the Project
+## 1. Clone the Project
 
 ```bash
 git clone https://github.com/TsiouMiouPiou/GPhysicalTherapy.git
 ```
-## Install Dependencies
+## 2.Install Dependencies
 
 ```bash
 npm install
 ```
 
-## 2. Change directory
+## 3. Change directory
 
 ```bash
 cd backend
 ```
 
-## 3. Start the server
+## 4. Start the server
 
 ```bash
 npm start
 ```
 
-## 4. Navigate to the link 
+## 5. Navigate to the link 
 Go to the http://localhost:5000
 Navigate to the contact from nav-bar, fill your information and sent the message.
 
-## 5. Check your MongoDB Schema.
+## 6. Check your MongoDB Schema.
 
