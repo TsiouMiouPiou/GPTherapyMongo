@@ -55,4 +55,5 @@ Go to the http://localhost:5000
 Navigate to the contact from nav-bar, fill your information and sent the message.
 
 ## 6. Check your MongoDB Schema.
+On https://cloud.mongodb.com navigate From the left bar on clusters > collections
 
